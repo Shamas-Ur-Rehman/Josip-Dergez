@@ -37,7 +37,7 @@ export default function AboutMe () {
           <tr>
             <td className='border border-[#000000] px-4 py-2 w-1/2'>
               <img
-                src='/Group 4.png'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836111/Group_4_apv6ny.png'
                 alt='Photoshop'
                 className='image-style mx-auto'
               />
@@ -55,7 +55,7 @@ export default function AboutMe () {
           <tr>
             <td className='border border-[#000000] px-4 py-2 w-1/2'>
               <img
-                src='/Group 5.png'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836111/Group_5_ekwqeg.png'
                 alt='Illustrator'
                 className='image-style mx-auto'
               />
@@ -73,7 +73,7 @@ export default function AboutMe () {
           <tr>
             <td className='border border-[#000000] px-4 py-2 w-1/2'>
               <img
-                src='/Group 6.png'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836111/Group_6_huiibz.png'
                 alt='Premiere Pro'
                 className='image-style mx-auto'
               />
@@ -91,7 +91,7 @@ export default function AboutMe () {
           <tr>
             <td className='border border-[#000000] px-4 py-2 w-1/2'>
               <img
-                src='/Group 7.png'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836111/Group_7_xtnlvw.png'
                 alt='Audition'
                 className='image-style mx-auto'
               />
@@ -109,7 +109,7 @@ export default function AboutMe () {
           <tr>
             <td className='border border-[#000000] px-4 py-2 w-1/2'>
               <img
-                src='/Group 8.png'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836112/Group_8_v6lqmp.png'
                 alt='After Effects'
                 className='image-style mx-auto'
               />

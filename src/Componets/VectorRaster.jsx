@@ -21,14 +21,14 @@ const VectorRaster = () => {
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-2 gap-5'>
             <div className='vector-images text-center overflow-hidden'>
               <img
-                src='j.png'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737738368/Rectangle_1_1_evv2sd.png'
                 alt='Vector Image 1'
                 className='w-full h-full object-contain bg-[#3B3838]'
               />
             </div>
             <div className='vector-images text-center overflow-hidden'>
               <img
-                src='2.jpeg'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737744510/Rectangle_5_euyhuh.png'
                 alt='Vector Image 2'
                 className='w-full h-full object-contain bg-[#3B3838]'
               />
@@ -56,7 +56,7 @@ const VectorRaster = () => {
             </div>
             <div className='vector-images text-center overflow-hidden'>
               <img
-                src='6.png'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737744500/Rectangle_14_udxbrc.png'
                 alt='Vector Image 6'
                 className='w-full h-full object-contain bg-[#3B3838]'
               />
@@ -79,42 +79,42 @@ const VectorRaster = () => {
           <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-2 gap-5'>
             <div className='project-images overflow-hidden'>
               <img
-                src='7.jpeg'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737835913/7_jdyz8f.jpg'
                 alt='Raster Image 1'
                 className='w-full h-full object-cover bg-[#3B3838]'
               />
             </div>
             <div className='project-images overflow-hidden'>
               <img
-                src='8.jpeg'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737835911/8_qgheze.jpg'
                 alt='Raster Image 2'
                 className='w-full h-full object-cover bg-[#3B3838]'
               />
             </div>
             <div className='project-images overflow-hidden'>
               <img
-                src='9.jpeg'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737835971/9_j7pmt9.jpg'
                 alt='Raster Image 3'
                 className='w-full h-full object-cover bg-[#3B3838]'
               />
             </div>
             <div className='project-images overflow-hidden'>
               <img
-                src='10.jpeg'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737835970/10_jcsemh.jpg'
                 alt='Raster Image 4'
                 className='w-full h-full object-cover bg-[#3B3838]'
               />
             </div>
             <div className='project-images overflow-hidden'>
               <img
-                src='11.jpeg'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737835978/11_xez38z.jpg'
                 alt='Raster Image 5'
                 className='w-full h-full object-cover bg-[#3B3838]'
               />
             </div>
             <div className='project-images overflow-hidden'>
               <img
-                src='12.jpeg'
+                src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737835978/12_yjqgav.jpg'
                 alt='Raster Image 6'
                 className='w-full h-full object-cover bg-[#3B3838]'
               />

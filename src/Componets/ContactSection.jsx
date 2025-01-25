@@ -33,7 +33,7 @@ const ContactSection = () => {
         <div className='flex justify-around'>
           <div className='flex flex-col items-center'>
             <img
-              src='face.png'
+              src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836200/face_zyscg2.png'
               alt='Facebook'
               className='w-10 h-10 filter invert brightness-0'
             />
@@ -41,7 +41,7 @@ const ContactSection = () => {
           </div>
           <div className='flex flex-col items-center'>
             <img
-              src='insta.png'
+              src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836200/insta_h82hjf.png'
               alt='Instagram'
               className='w-10 h-10 filter invert brightness-0'
             />
@@ -49,7 +49,7 @@ const ContactSection = () => {
           </div>
           <div className='flex flex-col items-center'>
             <img
-              src='link.png'
+              src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836200/link_ghaymi.png'
               alt='LinkedIn'
               className='w-10 h-10 filter invert brightness-0'
             />
