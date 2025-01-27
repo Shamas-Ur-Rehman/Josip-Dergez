@@ -40,7 +40,7 @@ const Home = () => {
         {/* Logo */}
         <a
           href='/'
-          className='text-2xl ml-4 text-[#F8F4E3] !font-righteous transition duration-300 font-[Courgette]'
+          className='text-2xl ml-4 text-[#F8F4E3] !font-Courgette transition duration-300 '
         >
           Josip Dergez
         </a>

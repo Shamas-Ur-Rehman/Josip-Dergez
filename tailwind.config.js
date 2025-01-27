@@ -5,7 +5,8 @@ export default {
     extend: {
       fontFamily: {
         righteous: ['Righteous', 'cursive'],
-        roboto: ['Roboto', 'sans-serif']
+        roboto: ['Roboto', 'sans-serif'],
+        Courgette: ['Courgette', 'cursive']
       }
     }
   },

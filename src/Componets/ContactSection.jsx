@@ -31,30 +31,42 @@ const ContactSection = () => {
           informacije možete me pronaći i na ovim društvenim mrežama!!!
         </p>
         <div className='flex justify-around'>
-          <div className='flex flex-col items-center'>
-            <img
+          <a
+            href='https://www.facebook.com/profile.php?id=100012650774407'
+            target='_blank'
+            className='flex flex-col items-center'
+          >
+             <img
               src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836200/face_zyscg2.png'
               alt='Facebook'
               className='w-10 h-10 filter invert brightness-0'
             />
             <p className='mt-2 text-sm text-white'>Josip Dergez</p>
-          </div>
-          <div className='flex flex-col items-center'>
-            <img
+          </a>
+          <a
+            href='https://www.instagram.com/jdergez/'
+            target='_blank'
+            className='flex flex-col items-center'
+          >
+           <img
               src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836200/insta_h82hjf.png'
               alt='Instagram'
               className='w-10 h-10 filter invert brightness-0'
             />
             <p className='mt-2 text-sm text-white'>jdergez</p>
-          </div>
-          <div className='flex flex-col items-center'>
+          </a>
+          <a
+            target='_blank'
+            href='https://www.linkedin.com/in/josip-dergez-26395b335'
+            className='flex flex-col items-center'
+          >
             <img
               src='https://res.cloudinary.com/dzh3qalmv/image/upload/v1737836200/link_ghaymi.png'
               alt='LinkedIn'
               className='w-10 h-10 filter invert brightness-0'
             />
             <p className='mt-2 text-sm text-white'>Josip Dergez</p>
-          </div>
+          </a>
         </div>
       </div>
     </div>
